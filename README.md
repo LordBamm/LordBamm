@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @LordBamm
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning C#, ASP.NET, PHP, JavaScript...
+- 📫 How to reach me ...
+
+<!---
+LordBamm/LordBamm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
